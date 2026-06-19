@@ -1,0 +1,1 @@
+package com.unal.poo.actividad4_epr_jgh.excepciones; public class Programador{private String nombre,apellidos; public Programador(String n,String a){nombre=n;apellidos=a;} public String getNombre(){return nombre;} public String getApellidos(){return apellidos;}}
