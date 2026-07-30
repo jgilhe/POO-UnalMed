@@ -1,0 +1,2 @@
+package actividad6_poo_EjercicioPag244;
+public class Leon extends Felino { public Leon(){sonido="Rugido";alimentos="Carnívoro";habitat="Pradera";nombreCientifico="Panthera leo";} public String getNombreCientifico(){return nombreCientifico;} public String getSonido(){return sonido;} public String getAlimentos(){return alimentos;} public String getHabitat(){return habitat;} }

@@ -1,0 +1,2 @@
+package actividad6_poo_EjercicioPag244;
+public class Lobo extends Canido { public Lobo(){sonido="Aullido";alimentos="Carnívoro";habitat="Bosque";nombreCientifico="Canis lupus";} public String getNombreCientifico(){return nombreCientifico;} public String getSonido(){return sonido;} public String getAlimentos(){return alimentos;} public String getHabitat(){return habitat;} }

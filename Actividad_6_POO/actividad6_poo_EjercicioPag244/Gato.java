@@ -1,0 +1,2 @@
+package actividad6_poo_EjercicioPag244;
+public class Gato extends Felino { public Gato(){sonido="Maullido";alimentos="Ratones";habitat="Doméstico";nombreCientifico="Felis silvestris catus";} public String getNombreCientifico(){return nombreCientifico;} public String getSonido(){return sonido;} public String getAlimentos(){return alimentos;} public String getHabitat(){return habitat;} }

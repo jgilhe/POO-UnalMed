@@ -1,0 +1,2 @@
+package actividad6_poo_EjercicioPag239;
+public class Prueba { public static void main(String[] args){Profesor profesor=new ProfesorTitular();profesor.imprimir();/* profesor.imprimirAnos(); // No compila: Profesor no declara este método */ProfesorTitular titular=new ProfesorTitular();titular.imprimirAnos();} }

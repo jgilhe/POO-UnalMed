@@ -1,0 +1,2 @@
+package actividad6_poo_EjercicioPag239;
+public class ProfesorTitular extends Profesor { private int anos=0; @Override protected void imprimir(){System.out.println("Soy un profesor titular.");} protected void imprimirAnos(){System.out.println("Años de experiencia: "+anos);} }

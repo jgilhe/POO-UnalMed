@@ -1,0 +1,2 @@
+package actividad6_poo_EjercicioPag244;
+public class Prueba { public static void main(String[] args){Animal[] animales={new Perro(),new Lobo(),new Gato(),new Leon()};for(Animal animal:animales){System.out.println("---------------------------");System.out.println("Nombre científico: "+animal.getNombreCientifico());System.out.println("Sonido: "+animal.getSonido());System.out.println("Alimentos: "+animal.getAlimentos());System.out.println("Hábitat: "+animal.getHabitat());}} }
